@@ -12,11 +12,11 @@ Maze-solving that reads a **text-based maze**, finds a path from **start (A)** t
   - Explored cells (yellow)  
 - 💡 Single-file implementation for easy reading and running  
 
-##🛠 Requirements
+## 🛠 Requirements
 - Python 3.8+
 - Pillow>=9.0
 
-##🚀 Usage
+## 🚀 Usage
 
 1. **Clone the repo** and move into the project folder:
 ```bash
