@@ -19,9 +19,10 @@ Maze-solving that reads a **text-based maze**, finds a path from **start (A)** t
 ##🚀Usage
 
 1. **Clone the repo** and move into the project folder:
-   ```bash
-   git clone https://github.com/<your-username>/maze-solver-ai.git
-   cd maze-solver-ai
+```bash
+git clone https://github.com/<your-username>/maze-solver-ai.git
+cd maze-solver-ai
+```
 2. **Install dependencies**(requires Python 3.8+):
 ```bash
 pip install -r requirements.txt
