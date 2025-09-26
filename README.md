@@ -16,7 +16,7 @@ Maze-solving that reads a **text-based maze**, finds a path from **start (A)** t
 - Python 3.8+
 - Pillow>=9.0
 
-##🚀Usage
+##🚀 Usage
 
 1. **Clone the repo** and move into the project folder:
 ```bash
@@ -42,4 +42,4 @@ Replace maze1.txt with any of the provided sample files (maze2.txt, maze3.txt, m
 
 **About This Project**
 Built originally in 2023, uploaded to GitHub in 2025.
-— Eyoab T.
+  — Eyoab T.
